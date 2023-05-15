@@ -1,5 +1,7 @@
-A React application developed as part of my final thesis 
+A React application developed as part of my final thesis: https://octopus-app-awo68.ondigitalocean.app/
+
 - Frontend with React, backend with Node.js/Express, MongoDB database
+- JavaScript token based login
 
 The application
 - Users can create tasks they need done (for example moving, transportation, cleaning)
