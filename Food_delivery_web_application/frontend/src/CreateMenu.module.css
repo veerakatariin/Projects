@@ -1,0 +1,17 @@
+.image {
+  width: 50px;
+  object-fit: cover;
+}
+
+.menuimage {
+  width: 500px;
+  object-fit: cover;
+}
+
+.menu {
+  display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ grid-gap: 1rem;
+ grid-auto-rows: minmax(50px, auto);
+ width: 50%;
+}
