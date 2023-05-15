@@ -1,4 +1,4 @@
-React application developed as part of my final thesis, hosted on DigitalOcean: https://octopus-app-awo68.ondigitalocean.app/
+React application developed as part of my final thesis
 
 - Frontend with React, backend with Node.js/Express, MongoDB database
 - JavaScript token based login
