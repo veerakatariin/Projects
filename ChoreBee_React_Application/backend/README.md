@@ -21,7 +21,7 @@ Dependencies
   - npm update
 
 
-Database // local mongodb for now 
+Database 
 
 - Install mongoose 
   - npm install mongoose                     // easily transforms javascript objects to mongodb documents
@@ -30,5 +30,3 @@ Database // local mongodb for now
 - Install nodemon                            // will automatically restart the application when the code changes
   - npm install -save-dev nodemon
 
-MONGODB_URI=mongodb+srv://Beeone:Mehiläinen1@chorebeeapp.7zybru0.mongodb.net/?retryWrites=true&w=majority
-PORT=3001
