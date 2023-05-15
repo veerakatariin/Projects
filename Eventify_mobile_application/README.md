@@ -1,16 +1,13 @@
-ä# eventify_frontend
+A mobile application developed with Flutter
 
-A new Flutter project.
+This project was completed in an international school project with a dutch university.
+Our project group of four created the frontend for the application, whereas the dutch students created the backend.
 
-## Getting Started
+The Application:
+- Users can create events: either live or online events
+- The events would show on the map according to their location 
+- Other users can sign up for the events
+- Users in the same event can chat with each other and proceed to agree on the details 
 
-This project is a starting point for a Flutter application.
+Eventify.PNG shows the layout of the application 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
