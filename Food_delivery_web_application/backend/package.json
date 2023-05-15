@@ -1,0 +1,28 @@
+{
+  "name": "awa_api",
+  "version": "1.0.0",
+  "description": "API for react application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "testapi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWAProjectOrganization41/backend.git"
+  },
+  "keywords": [
+    "awaapi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWAProjectOrganization41/backend/issues"
+  },
+  "homepage": "https://github.com/AWAProjectOrganization41/backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
