@@ -2,6 +2,8 @@ My projects
 
 - Arduino Game Console
   - A simple game console developed with Arduino, C
+- Web Application part of my thesis
+  - React, Node.js/Express, MongoDB database
 - Eventify Mobile Application 
   - Mobile application created with Flutter 
 -  Food Delivery Web Application
