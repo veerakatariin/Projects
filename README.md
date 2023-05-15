@@ -5,6 +5,6 @@ My projects
 - Eventify Mobile Application 
   - Mobile application created with Flutter 
 -  Food Delivery Web Application
-  - Web application created using JavaScript, Node.js, Express, PostgreSQl database
+   - Web application created using JavaScript, Node.js, Express, PostgreSQl database
 - QT Bank Simulator
   - Bank simulator developed with C++, JavaScript, MySQL Database
