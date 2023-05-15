@@ -1,0 +1,17 @@
+.itemF {grid-area: filter;}
+.itemL {grid-area: auto;}
+
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'filter auto auto'
+    'filter auto auto'
+    'filter auto auto';
+  gap: 10px;
+  padding: 10px;
+}
+
+.grid-task {
+  text-align: center;
+}
